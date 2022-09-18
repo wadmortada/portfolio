@@ -1,0 +1,32 @@
+body {
+    background-color: darkgray;
+}
+
+#imageSection {
+    position: ;
+}
+
+img {
+    border-radius: 100%;
+    width: 15%;
+    position: fixed;
+    top: 3%;
+    left: 5%;
+}
+
+#fullName {
+    position: fixed;
+    top: 12%;
+    left: 25%;
+    font-size: larger;
+    font-weight: 600;
+}
+
+#jobTitle {
+    position: fixed;
+    top: 23%;
+    left: 26%;
+    font-size: medium;
+    font-weight: 600;
+
+}
